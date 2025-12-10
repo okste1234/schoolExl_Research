@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"575a81d25bedeec5","x":-140,"y":-420,"width":250,"height":60,"type":"text","text":"\tSchoolExl <-> Toddle"},
+		{"id":"128a97641cec680d","x":38,"y":-129,"width":250,"height":60,"type":"text","text":"Process Documentation\nHow are we going to build it?"},
+		{"id":"1fba9fef51fc676b","x":-340,"y":-129,"width":250,"height":90,"color":"6","type":"text","text":"Features Documentation\nwhat are the features like?"}
+	],
+	"edges":[
+		{"id":"f99e7709573a0c1f","fromNode":"575a81d25bedeec5","fromSide":"bottom","toNode":"1fba9fef51fc676b","toSide":"top"},
+		{"id":"9efb3f7211a20eb7","fromNode":"575a81d25bedeec5","fromSide":"bottom","toNode":"128a97641cec680d","toSide":"top"}
+	]
+}
