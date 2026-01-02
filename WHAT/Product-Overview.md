@@ -19,7 +19,6 @@ Create reports that showcase growth beyond scores
 Create media-rich reports to give families a holistic view of student progress. Reduce report writing time to minutes with Toddle AI.
 
 
-
 ## Communications Hub
 Bring your entire school community together
 Stay connected with teachers, students and families in one place.
