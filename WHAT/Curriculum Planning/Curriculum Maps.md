@@ -13,3 +13,8 @@ Choose from our extensive library of 200+ state and national standards - or uplo
 
 
 	Toddle's Unique Curriculum Insights
+
+https://www.youtube.com/watch?v=WxK3URVy3rg&list=PLOdOyBHC1qQ35FGT5mwWCfPROjo4h7xej&index=25
+
+Unified platform for everyone's curriculum need - Work Faster, Smarter, and Collaborate with anyone in tour school or district community.
+
