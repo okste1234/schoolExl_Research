@@ -12,13 +12,6 @@ Curriculum Dashboard
  ├── Collaboration & Reviews
  └── Import / Export
 ```
-
-Great question. I’ll approach this like a **product strategist + UX architect**, breaking Toddle’s **Curriculum Planning** into **replicable screen modules** you can build for **SchoolExl**, while also highlighting **where you can differentiate** (especially with AI).
-
-  
-
-Below is a **full screen map** you’d need to realistically compete with Toddle’s Curriculum Planning feature.
-
 ---
 
 # **🧠 SchoolExl – Curriculum Planning Module**
