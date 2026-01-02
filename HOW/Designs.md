@@ -1,0 +1,1 @@
+![System Architecture](<Screenshot 2026-01-02 at 1.42.46 PM.png>)
